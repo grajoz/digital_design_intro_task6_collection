@@ -42,12 +42,7 @@ const modelExempel = [
     }
 ];
 
-
-console.log(modelExempel);
-
-const model = new Object( modelExempel);
-
-
+let model = modelExempel;
 
 let arrTransform = [];
 
